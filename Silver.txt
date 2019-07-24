@@ -1,0 +1,4 @@
+<h1>Check out our Silver medals!</h1>
+
+<p>Medallion: $108</p>
+<p>Ribbon: $75</p>
